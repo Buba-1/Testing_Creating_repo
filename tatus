@@ -1,0 +1,35 @@
+[33mcommit 22346bee56fae5c3b190aa45743c432eb4f58429[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Buba Kareem <bbjallow1994@gmail.com>
+Date:   Sun May 11 00:09:07 2025 +0530
+
+    Adding a new text file to try pushing to the global repo in github
+
+[33mcommit 5342c01df9afa397bb3c9bb929549d760ef88132[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Buba Kareem <bbjallow1994@gmail.com>
+Date:   Fri May 9 19:15:35 2025 +0530
+
+    done untracking and deleted the file, now its version is all gone
+
+[33mcommit b0eb2055d55b748721d1500916272a11d64dc5db[m
+Author: Buba Kareem <bbjallow1994@gmail.com>
+Date:   Fri May 9 19:09:09 2025 +0530
+
+    adding all using dot and commiting all at once with one line of code
+
+[33mcommit f92a62d0a5949cfb94eb84abcdb299e5e2bd806d[m
+Author: Buba Kareem <bbjallow1994@gmail.com>
+Date:   Fri May 9 00:20:23 2025 +0530
+
+    My skipped staging phase commit
+
+[33mcommit e8d79dda80b042801a716efd5863cfb5d6960a9c[m
+Author: Buba Kareem <bbjallow1994@gmail.com>
+Date:   Fri May 9 00:17:29 2025 +0530
+
+    My second commit
+
+[33mcommit a38845d957607bf9246659e186ce329e230f0f39[m
+Author: Buba Kareem <bbjallow1994@gmail.com>
+Date:   Fri May 9 00:09:05 2025 +0530
+
+    my fisrt commit

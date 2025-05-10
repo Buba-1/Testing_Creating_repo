@@ -1,0 +1,12 @@
+# User Services
+
+This file will document the user services available in the project. Below is a placeholder structure for defining services:
+
+1. **Service Name**: [Service Name]
+    - **Description**: [Brief description of the service]
+    - **Endpoint**: [API endpoint or URL]
+    - **Method**: [HTTP Method: GET, POST, PUT, DELETE]
+    - **Parameters**: [List of parameters required]
+    - **Response**: [Expected response format]
+
+Add more services as needed.
